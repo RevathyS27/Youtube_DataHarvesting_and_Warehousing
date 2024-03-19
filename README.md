@@ -20,5 +20,4 @@ Process:
       pertinent information from the Google API.To store the data in the MongoDB data lake, click the "Collect Data" button.
       To transfer data from the data lake to the SQL database, choose a channel name.
 Investigate the many options and quickly analyse YouTube channel statistics.
-
       
